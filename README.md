@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Habib ur Rehman
-- 👀 I’m interested in solving problems,coding and develpment
+- 👋 Hi, I’m Habib ur Rehman, mern Stack Developer 
+- 👀 I’m interested in solving leet code problems,coding and  develpment
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me .idrhabib@gmail.com 
 - 😄 Pronouns: His/Him
