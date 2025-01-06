@@ -73,11 +73,6 @@
 
 ---
 
-### Adding the Sliding Animation
-
-Add this CSS code to the bottom of the README or include it in an external stylesheet if supported:
-
-```css
 <style>
   .name-slide {
     display: inline-block;
