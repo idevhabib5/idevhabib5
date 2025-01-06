@@ -1,3 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitHub Slide Animation</title>
+  <style>
+    .slide-text {
+      font-size: 2em;
+      font-family: Arial, sans-serif;
+      color: #333;
+      position: relative;
+      animation: slide-in 2s ease-out forwards;
+    }
+
+    @keyframes slide-in {
+      0% {
+        left: -100%;
+        opacity: 0;
+      }
+      100% {
+        left: 0;
+        opacity: 1;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="slide-text">
+    Hi, I am Habib Ur Rahman, a passionate software engineer from Pakistan.
+  </div>
+
+</body>
+</html>
+
 <h1 align="center">Hi 👋, I'm Habib Ur Rahman</h1>
 <h3 align="center">A passionate software engineer from Pakistan</h3>
 
